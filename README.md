@@ -1,5 +1,4 @@
-# Oh hi! 🪶✨
-# This is shrimp2845
+# Oh hi! 🪶✨ This is shrimp2845
 
 ## About Me
 
