@@ -23,4 +23,4 @@ Mumei is my oshi btw
 
 <img src="https://github-readme-stats-eta-six-47.vercel.app/api?username=shrimp2845-tw&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" /> <img src="https://github-readme-stats-eta-six-47.vercel.app/api/top-langs/?username=shrimp2845-tw&layout=donut&theme=tokyonight&hide_border=true" height="150" alt="top langs" />
 
-[blog](https://shrimp2845-tw.github.io/) | [gmail](mailto:goldencheng15@gmail.com) | [ig](https://www.instagram.com/shrimp2845?igsh=MWI2OW12NHc2cXBkMQ==) | [chess.com](https://www.chess.com/member/shrimp2847)
+[blog](https://shrimp2845-tw.github.io/) | [email](mailto:goldencheng15@gmail.com) | [ig](https://www.instagram.com/shrimp2845?igsh=MWI2OW12NHc2cXBkMQ==) | [chess.com](https://www.chess.com/member/shrimp2847)
