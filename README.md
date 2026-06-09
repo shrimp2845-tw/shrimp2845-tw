@@ -2,7 +2,7 @@
 
 ## About Me
 
-Taiwanese high schooler and coding enthusiast.
+Taiwanese high schooler and programming enthusiast.
 
 ## Passionate about......
 
