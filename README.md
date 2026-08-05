@@ -16,7 +16,17 @@ I had studied how AES, DES, RSA, RC4 worked, and the basic math knowledge (group
 chess.com peak rapid elo 1792
 
 **ACGN**:
-I've been really into "angel next door spoils me rotten" recently.
+恋愛小説の愛好家
+recent:
+
+["お隣の天使様にいつの間にか駄目人間にされていた件"](https://otonarino-tenshisama.jp/)
+
+["転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件"](https://tenbin-anime.asmik-ace.co.jp/)
+
+["クラスで2番目に可愛い女の子と友だちになった"](https://kuranika.asmik-ace.co.jp/)
+
+["愛してるゲームを終わらせたい"](https://www.aishiteru-game.com/)
+
 Mumei is my oshi btw
 
 ## Stats
