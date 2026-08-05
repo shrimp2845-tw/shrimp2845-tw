@@ -17,7 +17,7 @@ chess.com peak rapid elo 1792
 
 **ACGN**:
 
-恋愛小説の愛好家
+恋愛小説、漫画、アニメの愛好家
 
 recent:
 
