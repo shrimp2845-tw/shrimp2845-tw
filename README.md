@@ -16,7 +16,9 @@ I had studied how AES, DES, RSA, RC4 worked, and the basic math knowledge (group
 chess.com peak rapid elo 1792
 
 **ACGN**:
+
 恋愛小説の愛好家
+
 recent:
 
 ["お隣の天使様にいつの間にか駄目人間にされていた件"](https://otonarino-tenshisama.jp/)
