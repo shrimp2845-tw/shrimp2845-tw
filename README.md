@@ -29,6 +29,10 @@ recent:
 
 ["愛してるゲームを終わらせたい"](https://www.aishiteru-game.com/)
 
+["久保さんは僕モブを許さない"](https://kubosan-anime.jp/)
+
+["ATRI -My Dear Moments-"](https://atri-mdm.com/)
+
 Mumei is my oshi btw
 
 ## Stats
